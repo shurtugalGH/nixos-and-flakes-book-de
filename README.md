@@ -1,8 +1,8 @@
 ![](./docs/public/nixos-and-flakes-book.webp)
 
 # WIP
-Übersetzung ins Deutsche
-Translation in german
+Übersetzung ins Deutsche  
+Translation into german
 
 # NixOS & Flakes Book :hammer_and_wrench: :heart:
 
