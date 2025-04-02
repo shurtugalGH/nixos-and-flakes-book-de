@@ -31,7 +31,7 @@ everyone using Flakes and want to learn it too, but find nowhere to start, often
 piece together scattered information, search through Nixpkgs source code, or seek help
 from more experienced users.
 
-## The Origin of This Book
+## Die Ursprünge dieses Buches
 
 This book originated from my scattered notes when I first started with NixOS.
 
@@ -80,7 +80,7 @@ and I appreciate all the support and encouragement from the readers. Without all
 this book's content might have remained confined to my personal blog, and it wouldn't have
 reached its current form.
 
-## The Features of This Book
+## Merkmale des Buches
 
 1. Focused on NixOS and Flakes, disregarding the traditional Nix configuration approach.
 2. Beginner-friendly, with explanations from the perspective of NixOS newcomers who have
@@ -91,7 +91,7 @@ reached its current form.
 5. Coherent content, well-organized, and structured. Readers can either read the book
    gradually or quickly find the information they need.
 
-## Donation
+## Spenden
 
 If you find this book helpful, please consider donating to support its development.
 
@@ -101,21 +101,21 @@ If you find this book helpful, please consider donating to support its developme
 - 爱发电: <https://afdian.com/a/ryan4yin>
 - Ethereum: `0xB74Aa43C280cDc8d8236952400bF6427E4390855`
 
-## Feedback and Discussion
+## Feedback und Diskussion 
 
-I’m not an expert on NixOS, and I’ve only been using NixOS for less than 9 months until
-now(2024-02), so there must be some misconceptions or complex cases in the book. If anyone
-finds anything incorrect or have any questions / suggestions, just let me know about it by
-opening an issue or joining the discussion on
-[GitHub Discussions](https://github.com/ryan4yin/nixos-and-flakes-book/discussions). I'm
-happy to continue improving the content of this book.
+Ich bin kein Experte, was NixOS angeht. Ich selbst nutze NixOS bisher seit weniger als 9 Monaten (Feb. 2024), 
+es wird also zu einigen Missverständnissen innerhalb des Buches kommen. Falls jemand einen Fehler findet oder
+Fragen oder Anregungen hat, lasst es mich wissen, indem ihr einen Issue öffnet oder der Disskusion beitretet
+[GitHub Discussions](https://github.com/ryan4yin/nixos-and-flakes-book/discussions). Ich freue mich, den Inhalt
+des Buches zu erweitern.
 
-The reason why I wrote this little book was only because no one in the community did it
-for me, who was a beginner at the time, so I chose to do it myself. Even though I knew I
-could make mistakes, it's much better than doing nothing.
+Der Grund, aus dem ich dieses kleine Buch schrieb ist, weil es niemand aus der Cmmunity 
+für mich getan hat, als ich noch ein Anfänger war, also fasste ich den Entschluss dies 
+selbst in die Hand zu nehmen. Obwohl ich weiß, dass ich Fehler machen könnte, ist es 
+besser, als es nicht zu tun.
 
-My hope is that this book can help more people, enabling them to experience the joys of
-NixOS. Hope you like it!
+Meine Hoffnung ist es, dass dieses Buch mehr Menschen helfen kann die Freuden von NixOS
+zu ergründen. Ich hoffe, es gefällt euch!
 
 ## Historical Feedback and Discussions on This Book
 
