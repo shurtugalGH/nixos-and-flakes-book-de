@@ -1,5 +1,9 @@
 ![](./docs/public/nixos-and-flakes-book.webp)
 
+#WIP
+Übersetzung ins Deutsche
+Translation in german
+
 # NixOS & Flakes Book :hammer_and_wrench: :heart:
 
 Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then
