@@ -1,6 +1,6 @@
 ![](./docs/public/nixos-and-flakes-book.webp)
 
-#WIP
+# WIP
 Übersetzung ins Deutsche
 Translation in german
 
