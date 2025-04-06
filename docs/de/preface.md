@@ -103,19 +103,21 @@ If you find this book helpful, please consider donating to support its developme
 
 ## Feedback und Diskussion 
 
-Ich bin kein Experte, was NixOS angeht. Ich selbst nutze NixOS bisher seit weniger als 9 Monaten (Feb. 2024), 
-es wird also zu einigen Missverständnissen innerhalb des Buches kommen. Falls jemand einen Fehler findet oder
-Fragen oder Anregungen hat, lasst es mich wissen, indem ihr einen Issue öffnet oder der Disskusion beitretet
-[GitHub Discussions](https://github.com/ryan4yin/nixos-and-flakes-book/discussions). Ich freue mich, den Inhalt
-des Buches zu erweitern.
+Ich bin kein Experte, was NixOS angeht. Ich selbst nutze NixOS bisher seit 
+weniger als 9 Monaten (Feb. 2024), es wird also zu einigen Missverständnissen 
+innerhalb des Buches kommen. Falls jemand einen Fehler findet oder Fragen oder 
+Anregungen hat, lasst es mich wissen, indem ihr einen Issue öffnet oder der 
+Disskusion beitretet [GitHub Discussions](https://github.com/ryan4yin/nixos-and-flakes-book/discussions).
+Ich freue mich, den Inhalt des Buches zu 
+erweitern.
 
-Der Grund, aus dem ich dieses kleine Buch schrieb ist, weil es niemand aus der Cmmunity 
-für mich getan hat, als ich noch ein Anfänger war, also fasste ich den Entschluss dies 
-selbst in die Hand zu nehmen. Obwohl ich weiß, dass ich Fehler machen könnte, ist es 
-besser, als es nicht zu tun.
+Der Grund, aus dem ich dieses kleine Buch schrieb ist, weil es niemand aus der 
+Community für mich getan hat, als ich noch ein Anfänger war, also fasste ich den 
+Entschluss dies selbst in die Hand zu nehmen. Obwohl ich weiß, dass ich Fehler 
+machen könnte, ist es besser, als es nicht zu tun.
 
-Meine Hoffnung ist es, dass dieses Buch mehr Menschen helfen kann die Freuden von NixOS
-zu ergründen. Ich hoffe, es gefällt euch!
+Meine Hoffnung ist es, dass dieses Buch mehr Menschen helfen kann die Freuden von 
+NixOS zu ergründen. Ich hoffe, es gefällt euch!
 
 ## Historical Feedback and Discussions on This Book
 

@@ -1,29 +1,35 @@
-# Basics of the Nix Language
+# Grundlagen der Nix-Sprache
 
-The Nix language is essential for declaring configurations to be built by Nix. To fully
-enjoy the benefits of NixOS and Flakes, it is necessary to grasp the fundamentals of this
-language.
+Die Nix-Sprache ist ist essentiell um Konfigurationen zu deklarieren, die von 
+Nix erstellt werden sollen. Um ind den Genuss aller Freuden von NixOS und Flakes 
+zu kommen, ist es nötig die Grundlagen dieser Sprache zu verstehen.
 
-The Nix language is a straightforward functional language. If you have some programming
-experience, it should take you less than 2 hours to grasp its basics.
+Die Nix-Sprache ist eine funktionale Sprache. Falls du schon etwas 
+Programmiererfahrung mitbringst, solltest du in weniger als zwei Stunden die 
+Grundlagen verstehen.
 
-The community already has a lot of good Nix language tutorials, so I won't reinvent the
-wheel. To get started, I recommend reading the following resources for a quick
-introduction to the Nix language:
+In der Community gibt es bereits einige gute Tutorials zur Nix-Sprache, also 
+werde ich hier das Rad nicht neu erfinden. Um anzufangen empfehle ich die 
+folgenden Quellen für einen Einblick in die Nix-Sprache:
 
-1. [**Nix Language Basics - nix.dev**](https://nix.dev/tutorials/first-steps/nix-language):
-   This tutorial provides a comprehensive overview of the basics of the Nix language,
-   recommended for beginners.
-1. [**A tour of Nix**](https://nixcloud.io/tour/?id=introduction/nix): An online
-   interactive tutorial focuses on programming language constructs and how Nix can be
-   algorithmically used to solve problems.
-1. [**Nix Language - Nix Reference Manual**](https://nixos.org/manual/nix/stable/language/):
-   The official documentation of the Nix language.
-   1. nix.dev and other user-friendly tutorials are suitable for starter reading only, and
-      **neither of them fully introduces the full syntax of Nix**. If you encounter a new
-      syntax that you have not come across before, please refer to this official document.
-1. <https://noogle.dev/> is a Nix function library search engine that can help you quickly
-   find the functions you need and their usage, which is very practical.
+1. [**Nix Language Basics - nix.dev**](https://nix.dev/tutorials/first-steps/nix-language):  
+   Dieses Tutorial bietet einen umfassenden Überblick der Grundlagen der 
+   Nix-Sprache und ist für Anfänger empfohlen.
+1. [**A tour of Nix**](https://nixcloud.io/tour/?id=introduction/nix):  
+   Ein interaktives Onlinetutorial mit Fokus auf die Konstrukte der 
+   Programmiersprache und wie Nix algorithmisch zur Problemlösung eingesetzt 
+   werden kann.
+1. [**Nix Language - Nix Reference Manual**](https://nixos.org/manual/nix/stable/language/):  
+   Die offizielle Dukumentation der Nix-Sprache.  
+   - nix.dev und andere benutzerfreundliche Tutorials sind nur für den Einstieg 
+   geeignet, und **keines von ihnen führt vollständig in die Syntax von Nix 
+   ein**. Wenn du also auf eine neue Syntax stößt, die du bisher noch nicht 
+   kanntest, schau bitte in dem offiziellen Dokument nach.
+1. [**Noogλe**](https://noogle.dev):  
+   Noogle ist eine Funktionsbibliotheksuchmaschine ^^. Hier kann man relativ 
+   schnell Funktionen und deren Anwendung finden, die man braucht, was sehr 
+   praktisch sein kann.
 
-It's okay to have a rough impression of the syntax for now. You can come back to review
-the syntax when you find something you don't understand later.
+Es ist okay, wenn du dir erstmal einen groben Überblick über die Syntax 
+verschaffst. Du kannst jederzeit zurückkommen und dir die Syntax anschauen, 
+falls du später etwas findest, was du nicht verstehst.

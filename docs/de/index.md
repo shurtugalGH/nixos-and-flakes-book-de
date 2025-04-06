@@ -6,7 +6,7 @@ titleTemplate: "Startseite"
 
 hero:
   name: "NixOS & Flakes"
-  text: "Eine unoffizielle Zusammenstellung für Anfänger"
+  text: "Eine inoffizielle Zusammenstellung für Anfänger"
   tagline:
     Möchtest du NixOS & Flakes im Detail kennen lernen? Suchst du nach einem anfängerfreundlichen
     Tutorial? Dann bist du hier genau richtig!
